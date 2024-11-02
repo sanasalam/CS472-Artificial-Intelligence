@@ -1,0 +1,11 @@
+Open zip file: Salam_PropositionalEncoding
+Then in Terminal in src compile:
+	javac Main.java
+And run with the argument:
+	"S(NP(Name(Amy)),VP(Verb(gave),NP(Det(the),Adj(pretty),Noun(flowers)),PP(Prep(to),NP(Det(the),Adj(small),Noun(boy)))))"
+
+*My program will generate the correct tree for any Parenthesized Expression
+*But I had trouble parsing the tree to produce a symbolic representation
+*So it should compile for any parenthesized expression, but the symbolic representation varies in its correctness by input. With the above it works.
+
+Thanks again
