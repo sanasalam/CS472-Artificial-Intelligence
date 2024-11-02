@@ -1,0 +1,11 @@
+Make sure the prog4Data.csv is in src folder!
+Then compile:
+	javac NaiveBayes.java
+And run with file appropriate arguments:
+	i.e.
+	java NaiveBayes 10 10 -v
+	java NaiveBayes 50 100 -v
+	java NaiveBayes 10 10
+	java NaiveBayes 50 100
+
+Thank you!
