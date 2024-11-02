@@ -1,0 +1,15 @@
+Inside the folder should be FrontEnd.java, Atom.java, DPLL.java, BackEnd.java, and input.txt
+Do the following:
+	Compile frontend: javac FrontEnd.java
+	Run frontend: java FrontEnd input.txt
+	*This will create frontEndOutput.txt file in the folder*
+	Now compile DPLL: javac DPLL.java
+	And run DPLL: java DPLL frontEndOutput.txt
+	*This will create dpllOutput.txt file in the folder*
+	Now compile backend: javac BackEnd.java
+	And run backend: java BackEnd dpllOutput.txt
+	*This will create backEndOutput.txt file in the folder*
+
+On 4-peg puzzle, contents of backEndOutput.txt should be
+Jump(3,2,1,1)
+Jump(1,4,3,2)
