@@ -1,5 +1,4 @@
-Open zip file: Salam_MDP
-Make sURE input.txt file is in src folder in Salam_MDP
+Make sure input.txt file is in src folder in Salam_MDP
 Then in Terminal in src compile:
 	javac MDP.java
 And run with file as argument:
